@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=ddugel3%20GitHub%20Page&fontSize=50&fontAlignY=20)
-<p align='center'> 𝔼𝕘𝕠 𝕒𝕦𝕥𝕖𝕞 𝕧𝕒𝕕𝕒𝕞 𝕢𝕦𝕠 𝕞𝕚𝕙𝕚 𝕙𝕖𝕒𝕣𝕥 𝕓𝕖𝕒𝕥𝕤 </p>
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=ddugel3%20GitHub%20Page&fontSize=60&fontAlignY=25)
+<p align='center'> 
+  𝔼𝕘𝕠 𝕒𝕦𝕥𝕖𝕞 𝕧𝕒𝕕𝕒𝕞 𝕢𝕦𝕠 𝕞𝕚𝕙𝕚 𝕙𝕖𝕒𝕣𝕥 𝕓𝕖𝕒𝕥𝕤
+</p>
 
 
 ## Thoughts
