@@ -10,7 +10,7 @@
 - 😲 1일 1커밋 도전중
 
 
-![](https://github.com/ddugel3/ddugel3/blob/main/why.jpg)
+![](https://github.com/ddugel3/ddugel3/blob/main/why2.jpg)
 
 
 <!--
