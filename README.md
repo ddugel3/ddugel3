@@ -1,6 +1,8 @@
-### Hi there 👋
+### 𝐄𝐠𝐨 𝐚𝐮𝐭𝐞𝐦 𝐯𝐚𝐝𝐚𝐦 𝐪𝐮𝐨 𝐦𝐢𝐡𝐢 𝐡𝐞𝐚𝐫𝐭 𝐛𝐞𝐚𝐭𝐬
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ddugel3)](https://solved.ac/ddugel3)
+![](https://raw.githubusercontent.com/[ddugel3]/[ddugel3]/master/[CODING.jpg])
+
 
 <!--
 **ddugel3/ddugel3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
