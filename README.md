@@ -1,8 +1,10 @@
 # ddugel3 GitHub Page
-### 𝐄𝐠𝐨 𝐚𝐮𝐭𝐞𝐦 𝐯𝐚𝐝𝐚𝐦 𝐪𝐮𝐨 𝐦𝐢𝐡𝐢 𝐡𝐞𝐚𝐫𝐭 𝐛𝐞𝐚𝐭𝐬
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=𝔼𝕘𝕠%20𝕒𝕦𝕥𝕖𝕞%20𝕧𝕒𝕕𝕒𝕞%20𝕢𝕦𝕠%20𝕞𝕚𝕙𝕚%20𝕙𝕖𝕒𝕣𝕥%20𝕓𝕖𝕒𝕥𝕤&fontSize=40&fontAlignY=20)
+
 
 * 🤔에러는 생겨도 문제고 없어도 문제....
-
+* 1일 1커밋
+ 
 
 ![](https://github.com/ddugel3/ddugel3/blob/main/why.jpg)
 
