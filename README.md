@@ -6,9 +6,9 @@
 
 ## Thoughts
 - :mortar_board: BusanKookmin Univ
-- 🌱 Learning .....
-- 🤔 에러는 생겨도 문제고 없어도 문제....
+- 🌱 Learning....patience;;
 - 😲 1일 1커밋 도전중
+- 🤔 에러는 생겨도 문제고 없어도 문제....
 
 
 ![](https://github.com/ddugel3/ddugel3/blob/main/why2.jpg)
