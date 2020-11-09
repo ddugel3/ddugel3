@@ -1,6 +1,10 @@
+# ddugel3 GitHub Page
 ### 𝐄𝐠𝐨 𝐚𝐮𝐭𝐞𝐦 𝐯𝐚𝐝𝐚𝐦 𝐪𝐮𝐨 𝐦𝐢𝐡𝐢 𝐡𝐞𝐚𝐫𝐭 𝐛𝐞𝐚𝐭𝐬
 
-![](https://raw.githubusercontent.com/ddugel3/ddugel3/CODING.jpg)
+* 🤔에러는 생겨도 문제고 없어도 문제....
+
+
+![](https://github.com/ddugel3/ddugel3/blob/main/why.jpg)
 
 
 <!--
