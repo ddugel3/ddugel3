@@ -1,9 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=ddugel3%20GitHub%20Page&fontSize=50&fontAlignY=20)
+<p align='center'> 𝔼𝕘𝕠 𝕒𝕦𝕥𝕖𝕞 𝕧𝕒𝕕𝕒𝕞 𝕢𝕦𝕠 𝕞𝕚𝕙𝕚 𝕙𝕖𝕒𝕣𝕥 𝕓𝕖𝕒𝕥𝕤 </p>
 
-### 𝔼𝕘𝕠 𝕒𝕦𝕥𝕖𝕞 𝕧𝕒𝕕𝕒𝕞 𝕢𝕦𝕠 𝕞𝕚𝕙𝕚 𝕙𝕖𝕒𝕣𝕥 𝕓𝕖𝕒𝕥𝕤
 
-* 🤔에러는 생겨도 문제고 없어도 문제....
-* 1일 1커밋
+
+## Thoughts
+- :mortar_board: BusanKookmin Univ
+- 🌱 Learning .....
+- 🤔 에러는 생겨도 문제고 없어도 문제....
+- 😲 1일 1커밋 도전중
 
 
 ![](https://github.com/ddugel3/ddugel3/blob/main/why.jpg)
