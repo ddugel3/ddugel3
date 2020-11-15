@@ -5,7 +5,7 @@
 
 
 ## Thoughts
-- :mortar_board: BusanKookmin Univ;
+- :mortar_board: Kookmin Univ;
 - 💻 C/C++, Algorithm;
 - 🌱 Python, HTML, CSS, Java;
 - 😲 1일 1커밋 도전중;
