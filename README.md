@@ -14,7 +14,7 @@
 
 
 ![](https://github.com/ddugel3/ddugel3/blob/main/why2.jpg)
-
+![](https://github.com/ddugel3/ddugel3/blob/main/a.png)
 
 <!--
 **ddugel3/ddugel3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
