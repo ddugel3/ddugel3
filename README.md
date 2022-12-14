@@ -8,9 +8,7 @@
 - :mortar_board: Kookmin Univ;
 - 💻 C/C++, Algorithm;
 - 🌱 Python, HTML, CSS, Java;
-- 😲 1일 1커밋 도전중;
 - 😑 Learning....patience;
-- 🤔 에러는 생겨도 문제고 없어도 문제....;
 
 ![](https://github.com/ddugel3/ddugel3/blob/main/a.png)
 
