@@ -6,8 +6,8 @@
 
 ## Thoughts
 - :mortar_board: Kookmin Univ;
-- 💻 C/C++, Algorithm;
-- 🌱 Python, HTML, CSS, Java;
+- 💻 C/C++, Java, Algorithm;
+- 🌱 Python, HTML, CSS, Java, Javascript ;
 - 😑 Learning....patience;
 
 ![](https://github.com/ddugel3/ddugel3/blob/main/a.png)
