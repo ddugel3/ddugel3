@@ -1,29 +1,71 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=ddugel3%20GitHub%20Page&fontSize=60&fontAlignY=25) -->
-<p align='center' font-size='50px'> 
-  𝔼𝕘𝕠 𝕒𝕦𝕥𝕖𝕞 𝕧𝕒𝕕𝕒𝕞 𝕢𝕦𝕠 𝕞𝕚𝕙𝕚 𝕙𝕖𝕒𝕣𝕥 𝕓𝕖𝕒𝕥𝕤
-</p>
+
+<br/>
+<br/>
+
+<h2 align='center' font-size='50px'> 𝔼𝕘𝕠 𝕒𝕦𝕥𝕖𝕞 𝕧𝕒𝕕𝕒𝕞 𝕢𝕦𝕠 𝕞𝕚𝕙𝕚 𝕙𝕖𝕒𝕣𝕥 𝕓𝕖𝕒𝕥𝕤</h2>
+
+<br/>
+
+<h3 align='center'>🏫 Experience & Social Activity</h3>
+
+<div align='center'>
+  
+|소속 및 단체|활동 기간|내용|
+|---|---|---|
+|국민대학교|2020.03 ~|국민대학교 소프트웨어학부 재학|
+|KOSS (코스)|2023.03 ~ 2024.03|국민대학교 소프트웨어융합대학 소프트웨어학부 오픈소스 소프트웨어 동아리|
+|KOSS (코스)|2024.03 ~ |국민대학교 소프트웨어융합대학 오픈소스 소프트웨어 동아리 회장|
+|커넥트 (CONNECT)|2023.12 ~|국민대학교 소프트웨어융합대학 제8대 학생회 홍보부 차장|
+
+</div>
+
+<br/>
+
+<h3 align='center'>💻 Projects </h3>
+
+<div align='center'>
+  
+| 기간 | 내용 | 역할 | 비고 | 
+| --- | --- | --- | --- |
+| 2023.03 ~ 2023.12　|이족보행 로봇을 이용하여 골프가 가능한 지능형 로봇 구현 <a href="https://github.com/KOSS-ROKO/Team_RoKo_2020">[ROKO]</a>| 팀장 | OpenCV YOLOv4 | 
+| 2023.07 ~ 2023.09　|시각 장애인을 위한 캠퍼스 내 위치 인식 기반 경로 및 보행 보이스 안내 어플 <a href="https://github.com/ddugel3/Open-SW-Developer-Contest">[로코]</a>| 팀장 | JAVA OpenCV YOLOv4  |
+| 2023.12 ~ 2023.12　|따뜻한 연말 가족과 함께 추억을 이야기 할 수 있는 퀴즈 서비스 <a href="https://github.com/ddugel3/COKOTHON-Android">[추억오락관]</a>| 팀원 | Kotlin | 
+
+</div>
+
+<br/>
+
+<h3 align='center'>🥇 Awards</h3>
+<div align='center'>
+<d> 제21회 임베디드SW경진대회 지능형 휴머노이드 부문 입선 (임베디드SW·System산업협회 회장상) </d>
+<br/>
+<d> 제21회 임베디드SW경진대회 ESW오픈 부문 입선 (임베디드SW·System산업협회 회장상)</d>
+<br/>
+  
+</div>
+
+<br/>
+<br/>
+
+<h3 align='center'>🛠️ Stacks & Tools</h3>
+<div align='center'>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/opencv-C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</div>
+<div align='center'>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/>
+  
+</div>
 
 
-## Thoughts
-- :mortar_board: Kookmin Univ;
-- 💻 C/C++, Java, Algorithm;
-- 🌱 Python, HTML, CSS, Java, Javascript ;
-- 😑 Learning....patience;
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ![](https://github.com/ddugel3/ddugel3/blob/main/a.png)
-
-<!--
-**ddugel3/ddugel3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
