@@ -27,8 +27,8 @@
   
 | 기간 | 내용 | 역할 | 비고 | 
 | --- | --- | --- | --- |
-| 2023.03 ~ 2023.12　|이족보행 로봇을 이용하여 골프가 가능한 지능형 로봇 구현 <a href="https://github.com/KOSS-ROKO/Team_RoKo_2020">[ROKO]</a>| 팀장 | OpenCV YOLOv4 | 
-| 2023.07 ~ 2023.09　|시각 장애인을 위한 캠퍼스 내 위치 인식 기반 경로 및 보행 보이스 안내 어플 <a href="https://github.com/ddugel3/Open-SW-Developer-Contest">[로코]</a>| 팀장 | JAVA OpenCV YOLOv4  |
+| 2023.03 ~ 2023.12　|이족보행 로봇을 이용하여 골프가 가능한 지능형 로봇 구현 <a href="https://github.com/KOSS-ROKO/Team_RoKo_2020">[ROKO]</a>| 팀장 | Python, OpenCV, YOLOv4 | 
+| 2023.07 ~ 2023.09　|시각 장애인을 위한 캠퍼스 내 위치 인식 기반 경로 및 보행 보이스 안내 어플 <a href="https://github.com/ddugel3/Open-SW-Developer-Contest">[로코]</a>| 팀장 | JAVA, OpenCV, YOLOv4  |
 | 2023.12 ~ 2023.12　|따뜻한 연말 가족과 함께 추억을 이야기 할 수 있는 퀴즈 서비스 <a href="https://github.com/ddugel3/COKOTHON-Android">[추억오락관]</a>| 팀원 | Kotlin | 
 
 </div>
