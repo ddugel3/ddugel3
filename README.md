@@ -69,5 +69,8 @@
 <br/>
 
 <div align='center'>
+  
 ![](https://github.com/ddugel3/ddugel3/blob/main/a.png)
+
 </div>
+
