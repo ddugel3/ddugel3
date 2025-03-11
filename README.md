@@ -38,6 +38,7 @@
 | 2023.12 ~ 2023.12　|따뜻한 연말 가족과 함께 추억을 이야기 할 수 있는 퀴즈 서비스 <a href="https://github.com/ddugel3/COKOTHON-Android">[추억오락관]</a>| 팀원 | Kotlin | 
 | 2024.01 ~ 2024.01　|[교육봉사]앱인벤터와 아두이노를 활용한 IoT 스마트홈 만들기 (Arduino & MIT App Inventor 교육) <a href="https://kmukoss.notion.site/2023-SW-5e66c49dc7024ca68fda85db80073575?pvs=4">[SW교육봉사]</a>| App Inventor, Scratch 교육 | App Inventor,Arduino  | 
 | 2024.08 ~ 2024.08　|[교육봉사]웹 개발 기초 및 개인 GitHub Blog 제작 <a href="https://github.com/ddugel3/2024-1-YongMoon-Voluntary">[SW교육봉사]</a>| 팀장 | Html, Css, JavaScript, MarkDown, Github Blog |
+| 2025.01 ~ 2025.01　|[교육봉사]라즈베리파이를 이용한 스마트 미러 만들기 <a href="https://github.com/ddugel3/2024-2-YongMoon-Voluntary">[SW교육봉사]</a>| 팀장 | Git, Raspbian |
 </div>
 
 <br/>
