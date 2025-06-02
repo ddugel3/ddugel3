@@ -22,6 +22,8 @@
 |KOSS (코스)|2023.03 ~ 2024.02|국민대학교 소프트웨어융합대학 소프트웨어학부 오픈소스 소프트웨어 동아리 홍보부 부장|
 |KOSS (코스)|2024.03 ~ 2025.02|국민대학교 소프트웨어융합대학 소프트웨어학부 오픈소스 소프트웨어 동아리 회장|
 |커넥트 (CONNECT)|2023.12 ~ 2024.12|국민대학교 소프트웨어융합대학 제8대 학생회 홍보부 차장|
+|유니소프트학원|2024.01 ~ 2024.12|유니소프트코딩 강사 (C++, python, Scratch, ENTRY)|
+|코더랜드|2024.11 ~ |코더랜드 1:1 코딩 튜터 (C++, python, Scratch, ENTRY)|
 
 </div>
 
@@ -33,12 +35,13 @@
   
 | 기간 | 내용 | 역할 | 비고 | 
 | --- | --- | --- | --- |
-| 2023.03 ~ 2023.12　|이족보행 로봇을 이용하여 골프가 가능한 지능형 로봇 구현 <a href="https://github.com/KOSS-ROKO/Team_RoKo_2020">[ROKO]</a>| 팀장 | Python, OpenCV, YOLOv4 | 
-| 2023.07 ~ 2023.09　|시각 장애인을 위한 캠퍼스 내 위치 인식 기반 경로 및 보행 보이스 안내 어플 <a href="https://github.com/ddugel3/Open-SW-Developer-Contest">[로코]</a>| 팀장 | JAVA, OpenCV, YOLOv4  |
-| 2023.12 ~ 2023.12　|따뜻한 연말 가족과 함께 추억을 이야기 할 수 있는 퀴즈 서비스 <a href="https://github.com/ddugel3/COKOTHON-Android">[추억오락관]</a>| 팀원 | Kotlin | 
-| 2024.01 ~ 2024.01　|[교육봉사]앱인벤터와 아두이노를 활용한 IoT 스마트홈 만들기 (Arduino & MIT App Inventor 교육) <a href="https://kmukoss.notion.site/2023-SW-5e66c49dc7024ca68fda85db80073575?pvs=4">[SW교육봉사]</a>| App Inventor, Scratch 교육 | App Inventor,Arduino  | 
-| 2024.08 ~ 2024.08　|[교육봉사]웹 개발 기초 및 개인 GitHub Blog 제작 <a href="https://github.com/ddugel3/2024-1-YongMoon-Voluntary">[SW교육봉사]</a>| 팀장 | Html, Css, JavaScript, MarkDown, Github Blog |
-| 2025.01 ~ 2025.01　|[교육봉사]라즈베리파이를 이용한 스마트 미러 만들기 <a href="https://github.com/ddugel3/2024-2-YongMoon-Voluntary">[SW교육봉사]</a>| 팀장 | Git, Raspbian |
+| 2023.03 ~ 2023.12　|[프로젝트] 이족보행 로봇을 이용하여 골프가 가능한 지능형 로봇 구현 <a href="https://github.com/KOSS-ROKO/Team_RoKo_2020">[ROKO]</a>| 팀장 | Python, OpenCV, YOLOv4 | 
+| 2023.07 ~ 2023.09　|[프로젝트] 시각 장애인을 위한 캠퍼스 내 위치 인식 기반 경로 및 보행 보이스 안내 어플 <a href="https://github.com/ddugel3/Open-SW-Developer-Contest">[로코]</a>| 팀장 | JAVA, OpenCV, YOLOv4  |
+| 2023.12 ~ 2023.12　|[프로젝트] 따뜻한 연말 가족과 함께 추억을 이야기 할 수 있는 퀴즈 서비스 <a href="https://github.com/ddugel3/COKOTHON-Android">[추억오락관]</a>| 팀원 | Kotlin | 
+| 2024.01 ~ 2024.01　|[교육봉사] 앱인벤터와 아두이노를 활용한 IoT 스마트홈 만들기 (Arduino & MIT App Inventor 교육) <a href="https://kmukoss.notion.site/2023-SW-5e66c49dc7024ca68fda85db80073575?pvs=4">[SW교육봉사]</a>| App Inventor, Scratch 교육 | App Inventor,Arduino  | 
+| 2024.08 ~ 2024.08　|[교육봉사] 웹 개발 기초 및 개인 GitHub Blog 제작 <a href="https://github.com/ddugel3/2024-1-YongMoon-Voluntary">[SW교육봉사]</a>| 팀장 | Html, Css, JavaScript, MarkDown, Github Blog |
+| 2025.01 ~ 2025.01　|[교육봉사] 라즈베리파이를 이용한 스마트 미러 만들기 <a href="https://github.com/ddugel3/2024-2-YongMoon-Voluntary">[SW교육봉사]</a>| 팀장 | Git, Raspbian |
+| 2025.01 ~ 2025.12　|[프로젝트] 다중화자 인식 기반 수어 아바타 생성 솔루션 <a href="https://github.com/ddugel3/Ondam">[온담]</a>| 팀장 | Python, C++, NLP(KoELECTRA), T5 | 
 </div>
 
 <br/>
@@ -48,6 +51,8 @@
 <d> 제21회 임베디드SW경진대회 지능형 휴머노이드 부문 입선 (임베디드SW·System산업협회 회장상) </d>
 <br/>
 <d> 제21회 임베디드SW경진대회 ESW오픈 부문 2등 (임베디드SW·System산업협회 회장상)</d>
+<br/>
+<d> 2025 KMUCS 다학제간캡스톤디자인 장려상 </d>
 <br/>
   
 </div>
@@ -62,11 +67,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/opencv-C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</div>
-<div align='center'>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/>
-  
 </div>
 
 
