@@ -48,13 +48,13 @@
 
 <h3 align='center'>🥇 Awards</h3>
 <div align='center'>
-<d> 제21회 임베디드SW경진대회 지능형 휴머노이드 부문 입선 (임베디드SW·System산업협회 회장상) </d>
-<br/>
-<d> 제21회 임베디드SW경진대회 ESW오픈 부문 2등 (임베디드SW·System산업협회 회장상)</d>
-<br/>
-<d> 2025 KMUCS 다학제간캡스톤디자인 장려상 </d>
-<br/>
-  
+<b> 제21회 임베디드SW경진대회 지능형 휴머노이드 부문 입선 (임베디드SW·System산업협회 회장상)</b>
+<br/><br/>
+<b> 제21회 임베디드SW경진대회 ESW오픈 부문 2등 (임베디드SW·System산업협회 회장상)</b>
+<br/><br/>
+<b> 2025 KMUCS 다학제간캡스톤디자인 장려상 </b>
+<br/><br/>
+
 </div>
 
 <br/>
