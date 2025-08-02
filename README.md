@@ -42,6 +42,7 @@
 | 2024.08 ~ 2024.08　|[교육봉사] 웹 개발 기초 및 개인 GitHub Blog 제작 <a href="https://github.com/ddugel3/2024-1-YongMoon-Voluntary">[SW교육봉사]</a>| 팀장 | Html, Css, JavaScript, MarkDown, Github Blog |
 | 2025.01 ~ 2025.01　|[교육봉사] 라즈베리파이를 이용한 스마트 미러 만들기 <a href="https://github.com/ddugel3/2024-2-YongMoon-Voluntary">[SW교육봉사]</a>| 팀장 | Git, Raspbian |
 | 2025.01 ~ 2025.12　|[프로젝트] 다중화자 인식 기반 수어 아바타 생성 솔루션 <a href="https://github.com/ddugel3/Ondam">[온담]</a>| 팀장 | Python, C++, NLP(KoELECTRA), T5 | 
+| 2025.07 ~ 2025.07　|[경진대회] 2025 SW중심대학 디지털 경진대회 : AI부문 <a href="https://github.com/ddugel3/sw-ai-contest">[203호]</a>| 팀원 | Python, NLP, LLM, HuggingFace, TF-IDF| 
 </div>
 
 <br/>
