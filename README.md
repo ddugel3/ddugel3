@@ -29,6 +29,21 @@
 
 <br/>
 
+<h3 align='center'>📚 Educational Volunteering </h3>
+
+<div align='center'>
+
+| 기간 | 내용 | 장소 | 역할 | 비고 | 
+| --- | --- | --- | --- | --- |
+| 2024.01 ~ 2024.01　|[교육봉사] 앱인벤터와 아두이노를 활용한 IoT 스마트홈 만들기 (Arduino & MIT App Inventor 교육) <a href="https://kmukoss.notion.site/2023-SW-5e66c49dc7024ca68fda85db80073575?pvs=4">[SW교육봉사]</a>| 용문고등학교 | 멘토 | App Inventor, Scratch, Arduino | 
+| 2024.08 ~ 2024.08　|[교육봉사] 웹 개발 기초 및 개인 GitHub Blog 제작 <a href="https://github.com/ddugel3/2024-1-YongMoon-Voluntary">[SW교육봉사]</a>| 용문고등학교 | 팀장, 멘토 | Html, Css, JavaScript, MarkDown, Github Blog |
+| 2025.01 ~ 2025.01　|[교육봉사] 라즈베리파이를 이용한 스마트 미러 만들기 <a href="https://github.com/ddugel3/2024-2-YongMoon-Voluntary">[SW교육봉사]</a>| 용문고등학교 | 팀장, 멘토 | Git, Linux, Raspbian |
+| 2025.08 ~ 2025.08　|[교육봉사] 인공지능 기초 이론 및 모델 구현 실습 <a href="https://github.com/kmu-koss/2025-1-YongMoon-Voluntary">[SW교육봉사]</a>| 홍익대학교사범대학부속고등학교 | 멘토 | GAI/ML Basics, MLP, Colab |
+| 2025.08 ~ 2025.08　|[교육봉사] 홍대부고 라즈베리파이를 이용한 스마트 미러 만들기 <a href="https://github.com/kmu-koss/2025-1-HongikHigh-Voluntary">[SW교육봉사]</a>| 용문고등학교 | 팀장, 멘토 | Git, Linux, CSS, Raspbian|
+</div>
+
+<br/>
+
 <h3 align='center'>💻 Projects </h3>
 
 <div align='center'>
@@ -38,14 +53,14 @@
 | 2023.03 ~ 2023.12　|[프로젝트] 이족보행 로봇을 이용하여 골프가 가능한 지능형 로봇 구현 <a href="https://github.com/KOSS-ROKO/Team_RoKo_2020">[ROKO]</a>| 팀장 | Python, OpenCV, YOLOv4 | 
 | 2023.07 ~ 2023.09　|[프로젝트] 시각 장애인을 위한 캠퍼스 내 위치 인식 기반 경로 및 보행 보이스 안내 어플 <a href="https://github.com/ddugel3/Open-SW-Developer-Contest">[로코]</a>| 팀장 | JAVA, OpenCV, YOLOv4  |
 | 2023.12 ~ 2023.12　|[프로젝트] 따뜻한 연말 가족과 함께 추억을 이야기 할 수 있는 퀴즈 서비스 <a href="https://github.com/ddugel3/COKOTHON-Android">[추억오락관]</a>| 팀원 | Kotlin | 
-| 2024.01 ~ 2024.01　|[교육봉사] 앱인벤터와 아두이노를 활용한 IoT 스마트홈 만들기 (Arduino & MIT App Inventor 교육) <a href="https://kmukoss.notion.site/2023-SW-5e66c49dc7024ca68fda85db80073575?pvs=4">[SW교육봉사]</a>| App Inventor, Scratch 교육 | App Inventor,Arduino  | 
-| 2024.08 ~ 2024.08　|[교육봉사] 웹 개발 기초 및 개인 GitHub Blog 제작 <a href="https://github.com/ddugel3/2024-1-YongMoon-Voluntary">[SW교육봉사]</a>| 팀장 | Html, Css, JavaScript, MarkDown, Github Blog |
-| 2025.01 ~ 2025.01　|[교육봉사] 라즈베리파이를 이용한 스마트 미러 만들기 <a href="https://github.com/ddugel3/2024-2-YongMoon-Voluntary">[SW교육봉사]</a>| 팀장 | Git, Raspbian |
 | 2025.01 ~ 2025.12　|[프로젝트] 다중화자 인식 기반 수어 아바타 생성 솔루션 <a href="https://github.com/ddugel3/Ondam">[온담]</a>| 팀장 | Python, C++, NLP(KoELECTRA), T5 | 
+| 2025.03 ~ 2025.07 |[연구활동] On-Device LLM 성능 개선 및 경량화 실험 <a href="https://www.notion.so/2025-1-UROP-1b3c6c4a028f80b490bed85704f2f76f">[UROP]</a> | - | Python, TinyLlama, Phi-2, Quantization, Knowledge Distillation |
 | 2025.07 ~ 2025.07　|[경진대회] 2025 SW중심대학 디지털 경진대회 : AI부문 <a href="https://github.com/ddugel3/sw-ai-contest">[203호]</a>| 팀원 | Python, NLP, LLM, HuggingFace, TF-IDF| 
 </div>
 
 <br/>
+<br/>
+
 
 <h3 align='center'>🥇 Awards</h3>
 <div align='center'>
