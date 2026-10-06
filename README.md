@@ -20,7 +20,7 @@ I am interested in **terrain-aware cross-embodiment locomotion**: developing sha
 
 2. **STAR: Stage-wise Traffic Accident Detection via Optical-Flow-Guided Reasoning**  
    Jaesung Sung, Jiwon Kim, Rian Ryu, Minseok Lim, Geonung Choi, Minju Jeong, and Jaekoo Lee.  
-   *AUTOPILOT Workshop at IEEE/CVF CVPR*, 2026.
+   *AUTOPILOT Workshop (non-archival) at IEEE/CVF CVPR*, 2026. [Poster](https://drive.google.com/file/d/1v57AfG-CuN-6ID6WT-u16YTGSDC68NDx/view?usp=sharing)
 
 ## Selected Work
 
