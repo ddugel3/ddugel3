@@ -16,7 +16,7 @@ I am interested in **terrain-aware cross-embodiment locomotion**: developing sha
 
 1. **Conditional Fusion of Terrain and Morphology for Shared Quadruped Locomotion Policies**  
    Geonung Choi, Taejin Park, Jaekwon Lee, and Jaekoo Lee.  
-   *Institute of Electronics and Information Engineers (IEIE)*, 2026.
+   *Institute of Electronics and Information Engineers (IEIE)*, 2026. [Paper](https://drive.google.com/file/d/1RQuJypRiTqK42HJzEHZN5c1xfXhz-Y2E/view?usp=sharing) · [Poster](https://drive.google.com/file/d/1S0CiC07b4Fj13ruzHJJEYQQHYvsZL4XT/view?usp=sharing)
 
 2. **STAR: Stage-wise Traffic Accident Detection via Optical-Flow-Guided Reasoning**  
    Jaesung Sung, Jiwon Kim, Rian Ryu, Minseok Lim, Geonung Choi, Minju Jeong, and Jaekoo Lee.  
