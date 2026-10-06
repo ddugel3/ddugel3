@@ -1,110 +1,45 @@
-<div align='center'>
+# Geonung Choi
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=GeonUng&fontAlign=25&fontAlignY=40&fontSize=50&fontColor=ffffff)
+M.S. Student in AI SW at Kookmin University.
 
-</div>
+I am interested in **terrain-aware cross-embodiment locomotion**: developing shared low-level control policies that generalize across diverse robot morphologies and unseen terrains by jointly conditioning on morphology and perceptive terrain information.
 
-<br/>
-<br/>
+[Portfolio](https://ddugel3.github.io) · [Curriculum Vitae](https://drive.google.com/file/d/1oeGvlL0u475gE0MOL1GtwFLQ3Bb_XNLi/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/geonung-choi-542bbb358) · [Email](mailto:ddugel3@kookmin.ac.kr)
 
-<h2 align='center' font-size='50px'> 𝔼𝕘𝕠 𝕒𝕦𝕥𝕖𝕞 𝕧𝕒𝕕𝕒𝕞 𝕢𝕦𝕠 𝕞𝕚𝕙𝕚 𝕙𝕖𝕒𝕣𝕥 𝕓𝕖𝕒𝕥𝕤</h2>
+## Research
 
-<br/>
-<br/>
+- Embodied AI and robot locomotion
+- Terrain-aware cross-embodiment control
+- Efficient machine learning and model adaptation
 
-<h3 align='center'>🏫 Experience & Social Activity</h3>
+## Publications
 
-<div align='center'>
-  
-|소속 및 단체|활동 기간|내용|
-|---|---|---|
-|국민대학교|2020.03 ~|국민대학교 소프트웨어학부 재학|
-|KOSS (코스)|2023.03 ~ 2024.02|국민대학교 소프트웨어융합대학 소프트웨어학부 오픈소스 소프트웨어 동아리 홍보부 부장|
-|KOSS (코스)|2024.03 ~ 2025.02|국민대학교 소프트웨어융합대학 소프트웨어학부 오픈소스 소프트웨어 동아리 회장|
-|커넥트 (CONNECT)|2023.12 ~ 2024.12|국민대학교 소프트웨어융합대학 제8대 학생회 홍보부 차장|
-|유니소프트학원|2024.01 ~ 2024.12|유니소프트코딩 강사 (C++, python, Scratch, ENTRY)|
-|코더랜드|2024.11 ~ |코더랜드 1:1 코딩 튜터 (C++, python, Scratch, ENTRY)|
+1. **Conditional Fusion of Terrain and Morphology for Shared Quadruped Locomotion Policies**  
+   Geonung Choi, Taejin Park, Jaekwon Lee, and Jaekoo Lee.  
+   *Institute of Electronics and Information Engineers (IEIE)*, 2026.
 
-</div>
+2. **STAR: Stage-wise Traffic Accident Detection via Optical-Flow-Guided Reasoning**  
+   Jaesung Sung, Jiwon Kim, Rian Ryu, Minseok Lim, Geonung Choi, Minju Jeong, and Jaekoo Lee.  
+   *AUTOPILOT Workshop at IEEE/CVF CVPR*, 2026.
 
-<br/>
+## Selected Work
 
-<h3 align='center'>📚 Educational Volunteering </h3>
+- **ACCIDENT @ CVPR 2026 Challenge** — Ranked 6th out of 106 teams on both the public and private leaderboards.
+- **[DACON × BDA Learner-Completion Prediction](https://github.com/ddugel3/CatBoost-Transformer-Stacking)** — Ranked 18th out of 782 teams on the private leaderboard.
+- **[LoRA Rank/Layer Output-Characteristic Analysis](https://github.com/ddugel3/LoRA-lank-layer-analysis)** — Analysis of output characteristics by LoRA rank and layer selection using LLaMA-3.
+- **[Paper2Env](https://github.com/ddugel3/paper2env)** — Automatic generation of reproducible Docker environments from research paper PDFs.
+- **[Multi-Speaker-Recognition-Based Sign-Language Avatar Generation](https://github.com/ddugel3/Ondam)** — Team lead; KoELECTRA- and T5-based sign-language avatar generation.
+- **[Campus Navigation and Walking Voice-Guidance App](https://github.com/ddugel3/Open-SW-Developer-Contest)** — Team lead; navigation support for visually impaired users using OpenCV and YOLOv4.
 
-<div align='center'>
+## Awards
 
-| 기간 | 내용 | 장소 | 역할 | 비고 | 
-| --- | --- | --- | --- | --- |
-| 2025.08 ~ 2025.08　|[교육봉사] 홍대부고 라즈베리파이를 이용한 스마트 미러 만들기 <a href="https://github.com/kmu-koss/2025-1-HongikHigh-Voluntary">[SW교육봉사]</a>| 용문고등학교 | 팀장, 멘토 | Git, Linux, CSS, Raspbian|
-| 2025.08 ~ 2025.08　|[교육봉사] 인공지능 기초 이론 및 모델 구현 실습 <a href="https://github.com/kmu-koss/2025-1-YongMoon-Voluntary">[SW교육봉사]</a>| 홍익대학교사범대학부속고등학교 | 멘토 | GAI/ML Basics, MLP, Colab |
-| 2025.01 ~ 2025.01　|[교육봉사] 라즈베리파이를 이용한 스마트 미러 만들기 <a href="https://github.com/ddugel3/2024-2-YongMoon-Voluntary">[SW교육봉사]</a>| 용문고등학교 | 팀장, 멘토 | Git, Linux, Raspbian |
-| 2024.08 ~ 2024.08　|[교육봉사] 웹 개발 기초 및 개인 GitHub Blog 제작 <a href="https://github.com/ddugel3/2024-1-YongMoon-Voluntary">[SW교육봉사]</a>| 용문고등학교 | 팀장, 멘토 | Html, Css, JavaScript, MarkDown, Github Blog |
-| 2024.01 ~ 2024.01　|[교육봉사] 앱인벤터와 아두이노를 활용한 IoT 스마트홈 만들기 (Arduino & MIT App Inventor 교육) <a href="https://kmukoss.notion.site/2023-SW-5e66c49dc7024ca68fda85db80073575?pvs=4">[SW교육봉사]</a>| 용문고등학교 | 멘토 | App Inventor, Scratch, Arduino | 
-</div>
+- **Honorable Mention**, 2025 KMU CS Interdisciplinary Capstone Design, 2025
+- **2nd Place, ESW Open Track**, The 21st World Embedded Software Contest, 2023
+- **Commendation Award, Intelligent Humanoid Track**, The 21st World Embedded Software Contest, 2023
 
-<br/>
+## Education
 
-<h3 align='center'>💻 Projects </h3>
+- **M.S. in AI SW**, Kookmin University, 2026–2028
+- **B.S. in Software Engineering**, Kookmin University, 2020–2026
 
-<div align='center'>
-  
-| 기간 | 내용 | 역할 | 비고 | 
-| --- | --- | --- | --- |
-| 2026.01 ~ 2025.01　|[연구활동] LoRA Rank/Layer에 따른 출력 특성 분석 <a href="https://github.com/ddugel3/LoRA-lank-layer-analysis/tree/main">[link]</a>| - | Python, llama3 , LoRA , HuggingFace| 
-| 2025.07 ~ 2025.07　|[경진대회] 2025 SW중심대학 디지털 경진대회 : AI부문 <a href="https://github.com/ddugel3/sw-ai-contest">[203호]</a>| 팀원 | Python, NLP, LLM, HuggingFace, TF-IDF|
-| 2025.03 ~ 2025.07 |[연구활동] On-Device LLM 성능 개선 및 경량화 실험 <a href="https://www.notion.so/2025-1-UROP-1b3c6c4a028f80b490bed85704f2f76f">[UROP]</a> | - | Python, TinyLlama, Phi-2, Quantization, Knowledge Distillation |
-| 2025.01 ~ 2025.12　|[프로젝트] 다중화자 인식 기반 수어 아바타 생성 솔루션 <a href="https://github.com/ddugel3/Ondam">[온담]</a>| 팀장 | Python, C++, NLP(KoELECTRA), T5 |
-| 2023.12 ~ 2023.12　|[프로젝트] 따뜻한 연말 가족과 함께 추억을 이야기 할 수 있는 퀴즈 서비스 <a href="https://github.com/ddugel3/COKOTHON-Android">[추억오락관]</a>| 팀원 | Kotlin |  
-| 2023.07 ~ 2023.09　|[프로젝트] 시각 장애인을 위한 캠퍼스 내 위치 인식 기반 경로 및 보행 보이스 안내 어플 <a href="https://github.com/ddugel3/Open-SW-Developer-Contest">[로코]</a>| 팀장 | JAVA, OpenCV, YOLOv4  |
-| 2023.03 ~ 2023.12　|[프로젝트] 이족보행 로봇을 이용하여 골프가 가능한 지능형 로봇 구현 <a href="https://github.com/KOSS-ROKO/Team_RoKo_2020">[ROKO]</a>| 팀장 | Python, OpenCV, YOLOv4 | 
-
-
-</div>
-
-<br/>
-<br/>
-
-
-<h3 align='center'>🥇 Awards</h3>
-<div align='center'>
-<b> 2025 KMUCS 다학제간캡스톤디자인 장려상 </b>
-<br/><br/>
-<b> 제21회 임베디드SW경진대회 지능형 휴머노이드 부문 입선 (임베디드SW·System산업협회 회장상)</b>
-<br/><br/>
-<b> 제21회 임베디드SW경진대회 ESW오픈 부문 2등 (임베디드SW·System산업협회 회장상)</b>
-<br/><br/>
-
-</div>
-
-<br/>
-<br/>
-
-<h3 align='center'>🛠️ Stacks & Tools</h3>
-<div align='center'>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/opencv-C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</div>
-
-
-<br/>
-<br/>
-<!--
-<div align='center'>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddugel3)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
---!>
-<br/>
-<br/>
-<br/>
-
-<div align='center'>
-  
-![](https://github.com/ddugel3/ddugel3/blob/main/a.png)
-
-</div>
-
+For a complete record of my research, projects, awards, and outreach activities, visit my **[portfolio](https://ddugel3.github.io)** or view my **[CV](https://drive.google.com/file/d/1oeGvlL0u475gE0MOL1GtwFLQ3Bb_XNLi/view?usp=sharing)**.
