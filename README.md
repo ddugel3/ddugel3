@@ -20,11 +20,13 @@ I am interested in **terrain-aware cross-embodiment locomotion**: developing sha
 
 2. **STAR: Stage-wise Traffic Accident Detection via Optical-Flow-Guided Reasoning**  
    Jaesung Sung, Jiwon Kim, Rian Ryu, Minseok Lim, Geonung Choi, Minju Jeong, and Jaekoo Lee.  
-   *AUTOPILOT Workshop (non-archival) at IEEE/CVF CVPR*, 2026. [Poster](https://drive.google.com/file/d/1v57AfG-CuN-6ID6WT-u16YTGSDC68NDx/view?usp=sharing)
+   *AUTOPILOT Workshop (non-archival) at IEEE/CVF CVPR*, 2026. [Code](https://github.com/ddugel3/STAR-AUTOPILOT) · [Poster](https://github.com/ddugel3/STAR-AUTOPILOT/blob/main/docs/star-autopilot-2026-poster.pdf)
+
+   **My contribution:** implemented Spatial LoRA training for bounding-box prediction, using ground-truth-time-centered clips and bbox-response-only cross-entropy.
 
 ## Selected Work
 
-- **ACCIDENT @ CVPR 2026 Challenge** — Ranked 6th out of 106 teams on both the public and private leaderboards.
+- **[ACCIDENT @ CVPR 2026 Challenge](https://github.com/ddugel3/STAR-AUTOPILOT)** — Stage-wise traffic accident detection with temporal/spatial LoRA and bbox-cropped zero-shot collision-type classification. Ranked 6th out of 106 teams on both the public and private leaderboards.
 - **[DACON × BDA Learner-Completion Prediction](https://github.com/ddugel3/CatBoost-Transformer-Stacking)** — Ranked 18th out of 782 teams on the private leaderboard.
 - **[LoRA Rank/Layer Output-Characteristic Analysis](https://github.com/ddugel3/LoRA-lank-layer-analysis)** — Analysis of output characteristics by LoRA rank and layer selection using LLaMA-3.
 - **[Paper2Env](https://github.com/ddugel3/paper2env)** — Automatic generation of reproducible Docker environments from research paper PDFs.
