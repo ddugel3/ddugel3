@@ -4,7 +4,7 @@ M.S. Student in AI SW at Kookmin University.
 
 I am interested in **terrain-aware cross-embodiment locomotion**: developing shared low-level control policies that generalize across diverse robot morphologies and unseen terrains by jointly conditioning on morphology and perceptive terrain information.
 
-[Portfolio](https://ddugel3.github.io) · [Curriculum Vitae](https://drive.google.com/file/d/1oeGvlL0u475gE0MOL1GtwFLQ3Bb_XNLi/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/geonung-choi-542bbb358) · [Email](mailto:ddugel3@kookmin.ac.kr)
+[Portfolio](https://ddugel3.github.io) · [Curriculum Vitae](https://drive.google.com/file/d/1FqeJtNPJDb-0rbYC1QPGFOijfl3YPp2p/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/geonung-choi-542bbb358) · [Email](mailto:ddugel3@kookmin.ac.kr)
 
 ## Research
 
@@ -42,4 +42,4 @@ I am interested in **terrain-aware cross-embodiment locomotion**: developing sha
 - **M.S. in AI SW**, Kookmin University, 2026–2028
 - **B.S. in Software Engineering**, Kookmin University, 2020–2026
 
-For a complete record of my research, projects, awards, and outreach activities, visit my **[portfolio](https://ddugel3.github.io)** or view my **[CV](https://drive.google.com/file/d/1oeGvlL0u475gE0MOL1GtwFLQ3Bb_XNLi/view?usp=sharing)**.
+For a complete record of my research, projects, awards, and outreach activities, visit my **[portfolio](https://ddugel3.github.io)** or view my **[CV](https://drive.google.com/file/d/1FqeJtNPJDb-0rbYC1QPGFOijfl3YPp2p/view?usp=sharing)**.
