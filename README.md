@@ -14,7 +14,12 @@ I am interested in **terrain-aware cross-embodiment locomotion**: developing sha
 
 ## Experience
 
-- **Visiting Scholar**, University of California, Irvine, Oct. 2026–Present
+- **Visiting Scholar**, [Dutt Research Group](https://duttgroup.ics.uci.edu/), University of California, Irvine, Oct. 2026–Present
+  - Advisor: Prof. Nikil Dutt
+- **Undergraduate Research Assistant**, [Machine Intelligence Laboratory](http://mi.kookmin.ac.kr/), Kookmin University, Oct. 2025–Jul. 2026
+  - Advisor: Prof. Jaekoo Lee
+- **Undergraduate Researcher**, Undergraduate Research Opportunities Program, Kookmin University, Mar. 2025–Jul. 2025
+  - Advisor: Prof. Changwoo Lee
 
 ## Publications
 
