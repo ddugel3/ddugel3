@@ -1,6 +1,6 @@
 # Geonung Choi
 
-M.S. Student in AI SW at Kookmin University.
+M.S. Student in AI SW at Kookmin University and Visiting Scholar at UC Irvine.
 
 I am interested in **terrain-aware cross-embodiment locomotion**: developing shared low-level control policies that generalize across diverse robot morphologies and unseen terrains by jointly conditioning on morphology and perceptive terrain information.
 
@@ -11,6 +11,10 @@ I am interested in **terrain-aware cross-embodiment locomotion**: developing sha
 - Embodied AI and robot locomotion
 - Terrain-aware cross-embodiment control
 - Efficient machine learning and model adaptation
+
+## Experience
+
+- **Visiting Scholar**, University of California, Irvine, Oct. 2026–Present
 
 ## Publications
 
